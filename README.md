@@ -31,12 +31,12 @@ The project uses detailed Indian agricultural datasets containing crop productio
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/agriculture-yield-analysis.git`
+git clone https://github.com/yourusername/agriculture-yield-analysis.git```
 
 2: Install requirements
 ```bash
-pip install -r requirements.txt`
+pip install -r requirements.txt```
 
 Step 3: Run the app
 ```bash
-streamlit run app.py`
+streamlit run app.py```
