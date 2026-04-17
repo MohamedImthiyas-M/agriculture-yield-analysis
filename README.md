@@ -28,7 +28,8 @@ The project uses detailed Indian agricultural datasets containing crop productio
 ---
 
 ## ▶️ How to Run the Project
-1. 📁 Navigate to Project Folder
+1. Navigate to Project Folder
+
 After downloading move to your project folder:
 Open your folder where the files are located and type cmd in adress bar
 
