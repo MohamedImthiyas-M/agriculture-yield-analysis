@@ -29,17 +29,23 @@ The project uses detailed Indian agricultural datasets containing crop productio
 
 ## ▶️ How to Run the Project
 
-1. Clone the repository:
+1. Clone the repository(Optional):
 ```bash
 git clone https://github.com/yourusername/agriculture-yield-analysis.git
 ```
 ---
-2: Install requirements
+2.📁 Navigate to Project Folder
+```bash
+cd your-project-folder-name
+```
+> Replace `your-project-folder-name` with the actual folder you placed
+---
+3: Install requirements
 ```bash
 pip install -r requirements.txt
 ```
 ---
-3: Run the app
+4: Run the app
 ```bash
 streamlit run app.py
 ```
