@@ -29,10 +29,12 @@ The project uses detailed Indian agricultural datasets containing crop productio
 
 ## ▶️ How to Run the Project
 1. 📁 Navigate to Project Folder
- Open your folder where the files are located
-<img width="653" height="164" alt="Screenshot 2026-04-17 095249" src="https://github.com/user-attachments/assets/5e50555c-0146-43cf-9f5b-50a0795897fc" />
+Open your folder where the files are located
+<img width="705" height="287" alt="Screenshot 2026-04-17 100930" src="https://github.com/user-attachments/assets/c60c05c7-08cf-4405-acb9-98253f8c587d" />
+
+---
 (or)
- open cmd and run command
+Open cmd and run command
 ```bash
 cd your-project-folder-name
 ```
@@ -43,6 +45,7 @@ cd your-project-folder-name
 pip install -r requirements.txt
 ```
 <img width="1231" height="916" alt="Screenshot 2026-04-17 101009" src="https://github.com/user-attachments/assets/16df7eb3-490b-4b56-951e-9194b3f3e204" />
+
 ---
 3. Run the app
 ```bash
